@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "云居使用文档",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "main": "index.js",
   "repository": "https://github.com/front-end-open/docs.git",
