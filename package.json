@@ -7,7 +7,7 @@
     "docs:build": "vuepress build docs"
   },
   "main": "index.js",
-  "repository": "https://github.com/front-end-open/yunjv.git",
+  "repository": "https://github.com/front-end-open/docs.git",
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.7.1"
